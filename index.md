@@ -14,5 +14,5 @@ Halfway through the book, Bastian becomes a character in The Neverending Story, 
 * loves fantasy
 * becomes a character of the book he is reading
 
-> "But I can't, I have to keep my feet on the ground!"
-> "All right! I'll do it! I'll save you! I will do what I dream!"
+
+> "But I can't, I have to keep my feet on the ground! - All right! I'll do it! I'll save you! I will do what I dream!"
