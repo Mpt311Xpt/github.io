@@ -17,3 +17,5 @@ Halfway through the book, Bastian becomes a character in The Neverending Story, 
 
 > But I can't, I have to keep my feet on the ground!
 > All right! I'll do it! I'll save you! I will do what I dream!
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Evanna_Lynch_acrylic_ink.jpg/800px-Evanna_Lynch_acrylic_ink.jpg"/>
